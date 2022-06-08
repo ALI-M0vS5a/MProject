@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MontyPays</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log in</string>
+    <string name="tv_title_desc">Enter your details to create\nyour new account</string>
+    <string name="full_name">Full Name</string>
+    <string name="work_email">Work Email</string>
+    <string name="country">Country</string>
+    <string name="_33">+33</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="company_name">Company Name</string>
+    <string name="website">Website</string>
+    <string name="company_size">Company Size</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="logo">logo</string>
+    <string name="login">Login</string>
+    <string name="tv_log_in_desc">Enter your login details to\naccess your account</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="sign_up_account">Sign Up Account</string>
+    <string name="terms_and_condition">Terms and Conditions</string>
+    <string name="apply">Apply</string>
+    <string name="forgot_password2">Forgot Password!</string>
+    <string name="enter_your_username_below_and_we_ll_email_instructions_for_setting_a_new_one">Enter your username below, and we’ll\nemail instructions for setting a new one</string>
+    <string name="email">Email</string>
+    <string name="john_montypay_com">john@montypay.com</string>
+</resources>
